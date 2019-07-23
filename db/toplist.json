@@ -1,0 +1,191 @@
+[
+  {
+    "id": "009",
+    "name": "水箭龟",
+    "subName": "",
+    "types": [
+      "水"
+    ],
+    "weaknesses": [
+      "草",
+      "电"
+    ],
+    "story": "甲壳上的喷射口能够精准地瞄准目标。打出的水弹可以命中５０米外的空罐子。甲壳上的喷射口能够精准地瞄准目标。打出的水弹可以命中５０米外的空罐子。",
+    "evolution": [
+      {
+        "evloutionLevel": 1,
+        "branches": [
+          {
+            "id": "007",
+            "name": "杰尼龟",
+            "subname": ""
+          }
+        ]
+      },
+      {
+        "evloutionLevel": 2,
+        "branches": [
+          {
+            "id": "008",
+            "name": "卡咪龟",
+            "subname": ""
+          }
+        ]
+      },
+      {
+        "evloutionLevel": 3,
+        "branches": [
+          {
+            "id": "009",
+            "name": "水箭龟",
+            "subname": ""
+          }
+        ]
+      }
+    ],
+    "imgSrc": "https://cn.portal-pokemon.com/play/resources/pokedex/img/pm/2fe157db59153af8abd636ab03c7df6f28b08242.png",
+    "abilities": [],
+    "info": {
+      "category": "甲壳宝可梦",
+      "height": 1.6,
+      "weight": 85.5,
+      "abilities": [
+        {
+          "name": "激流",
+          "detail": "ＨＰ减少的时候，水属性的招式威力会提高。"
+        }
+      ]
+    },
+    "style": [
+      {
+        "styleId": "009",
+        "styleName": "水箭龟",
+        "styleSubName": ""
+      },
+      {
+        "styleId": "009",
+        "styleName": "超级水箭龟",
+        "styleSubName": ""
+      }
+    ],
+    "stat": {}
+  },
+  {
+    "id": "454",
+    "name": "毒骷蛙",
+    "subName": "",
+    "types": [
+      "毒",
+      "格斗"
+    ],
+    "weaknesses": [
+      "地面",
+      "飞行"
+    ],
+    "story": "从拳头的尖刺里分泌出的剧毒，即使只是擦伤也足以致命。喉咙里带有毒囊。如果从喉咙发出声响，储存的毒素会被炼制得更强劲。",
+    "evolution": [
+      {
+        "evloutionLevel": 1,
+        "branches": [
+          {
+            "id": "453",
+            "name": "不良蛙",
+            "subname": ""
+          }
+        ]
+      },
+      {
+        "evloutionLevel": 2,
+        "branches": [
+          {
+            "id": "454",
+            "name": "毒骷蛙",
+            "subname": ""
+          }
+        ]
+      }
+    ],
+    "imgSrc": "https://cn.portal-pokemon.com/play/resources/pokedex/img/pm/1f4f69841259e490584d640a1d8d8cc69f6f57a8.png",
+    "abilities": [],
+    "info": {
+      "category": "毒击宝可梦",
+      "height": 1.3,
+      "weight": 44.4,
+      "abilities": [
+        {
+          "name": "危险预知",
+          "detail": "可以察觉到对手拥有的危险招式。"
+        },
+        {
+          "name": "干燥皮肤",
+          "detail": "下雨天气时和受到水属性的招式时，ＨＰ会回复。晴朗天气时和受到火属性的招式时，ＨＰ会减少。"
+        }
+      ]
+    },
+    "style": [],
+    "stat": {}
+  },
+  {
+    "id": "001",
+    "name": "妙蛙种子",
+    "subName": "",
+    "types": [
+      "草",
+      "毒"
+    ],
+    "weaknesses": [
+      "火",
+      "冰",
+      "飞行",
+      "超能力"
+    ],
+    "story": "会看到它在太阳底下睡午觉的样子。在沐浴了充足的阳光后，它背上的种子就会茁壮成长。会看到它在太阳底下睡午觉的样子。在沐浴了充足的阳光后，它背上的种子就会茁壮成长。",
+    "evolution": [
+      {
+        "evloutionLevel": 1,
+        "branches": [
+          {
+            "id": "001",
+            "name": "妙蛙种子",
+            "subname": ""
+          }
+        ]
+      },
+      {
+        "evloutionLevel": 2,
+        "branches": [
+          {
+            "id": "002",
+            "name": "妙蛙草",
+            "subname": ""
+          }
+        ]
+      },
+      {
+        "evloutionLevel": 3,
+        "branches": [
+          {
+            "id": "003",
+            "name": "妙蛙花",
+            "subname": ""
+          }
+        ]
+      }
+    ],
+    "imgSrc": "https://cn.portal-pokemon.com/play/resources/pokedex/img/pm/cf47f9fac4ed3037ff2a8ea83204e32aff8fb5f3.png",
+    "abilities": [],
+    "info": {
+      "category": "种子宝可梦",
+      "height": 0.7,
+      "weight": 6.9,
+      "abilities": [
+        {
+          "name": "茂盛",
+          "detail": "ＨＰ减少的时候，草属性的招式威力会提高。"
+        }
+      ]
+    },
+    "style": [],
+    "stat": {}
+  }
+]
